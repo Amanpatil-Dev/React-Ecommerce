@@ -1,0 +1,21 @@
+.minus,
+.plus {
+  cursor: pointer;
+}
+
+.cart-button {
+  width: 100%;
+  margin-top: 1rem;
+  padding: 1rem;
+  border-radius: 12px;
+  background: #ff8234;
+  border: 1px solid transparent;
+  color: white;
+  transition: all .25s ease-in-out;
+}
+
+.cart-button:hover{
+    background-color: white;
+    color: #ff8234;
+    border:1px solid #ff8234;
+}

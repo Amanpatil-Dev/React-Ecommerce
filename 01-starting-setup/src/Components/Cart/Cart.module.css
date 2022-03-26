@@ -1,0 +1,20 @@
+.cart{
+    position: absolute;
+    background: white;
+    width: 365px;
+    height: 230px;
+    top: 4rem;
+    left: -16rem;
+    box-shadow: rgb(0 0 0 / 35%) 0px 5px 15px;
+    border-radius: 12px;
+    overflow: scroll;
+
+}
+.cart h2{
+    text-align: left;
+    padding: 1rem 0rem 0rem 1rem;
+    font-size: 1.2rem;
+}
+.hr{
+    width: 100%;
+}

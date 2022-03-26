@@ -1,0 +1,13 @@
+.cartButton{
+    border: none;
+    background: none;
+    cursor: pointer;
+    position: relative;
+    z-index: 1;
+}
+
+span{
+    position: absolute;
+    right: 15%;
+    bottom: 50%;
+}
